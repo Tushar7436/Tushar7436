@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack Web dev**
 
-- 💬 Ask me about **Frontend web**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **tushar7436@gmail.com**
 
