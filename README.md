@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar7436&label=Profile%20views&color=0e75b6&style=flat" alt="tushar7436" /> </p>
 
-- 🔭 I’m currently working on [HART Portal](https://github.com/Tushar7436/Team-Portal)
+- 🔭 I’m currently working on MERN Stack
 
 - 🌱 I’m currently learning **Full stack Web dev**
 
