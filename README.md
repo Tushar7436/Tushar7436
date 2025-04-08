@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar7436&label=Profile%20views&color=0e75b6&style=flat" alt="tushar7436" /> </p>
 
-- 🔭 I’m currently working on FastAPI and Firebase
+- 🔭 I’m currently working on Next.js and system design
 
 - 🌱 I’m currently aiming for **Full stack dev**
 
