@@ -21,7 +21,7 @@
   <a href="https://codepen.io/tushar-agarwal-the-flexboxer" target="_blank">
     <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="CodePen"/>
   </a>
-  <a href="https://www.linkedin.com/in/tushar-agarwal-ba0186263/" target="_blank">
+  <a href="https://www.linkedin.com/in/tushar-agarwal001/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
 </p>
