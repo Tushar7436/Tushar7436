@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Tushar Agarwal</h1>
-<h3 align="center">🚀 Full Stack Developer | System Design Enthusiast | India 🇮🇳</h3>
+<h3 align="center">🚀 Full Stack Developer | System Design Enthusiast | India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tushar7436&label=Profile%20Views&color=0e75b6&style=flat" alt="tushar7436" />
@@ -30,7 +30,7 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,tailwind,docker,mongodb,typescript,Next.js,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,tailwind,docker,mongodb,typescript,Next,postgres,firebase" />
 </p>
 
 ---
