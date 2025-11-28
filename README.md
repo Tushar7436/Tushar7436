@@ -9,9 +9,10 @@
 ---
 
 ### 🌟 About Me  
-- 🔭 Currently working with **Next.js & System Design**  
+- 🔭 Currently working with **Next.js & System Design**
+- ☁️ Hands on AWS services (EC2, S3, API, VPC) 
 - 🌱 Exploring the path to becoming a **Full Stack Developer**  
-- 💬 Ask me about **Web Development, React, and System Design**  
+- 💬 Ask me about **Web Development, Engineering Problems, and System Design**  
 - 📫 Reach me at **tushar7436@gmail.com**
 
 ---
